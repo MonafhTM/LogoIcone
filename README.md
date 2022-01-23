@@ -82,7 +82,7 @@ fro sidmune you can moved to logo to see Famous logo
 Explanation video of the application. 
 
 - SideMenu :
-it contains to a : 
+-it contains to a : 
 - SearchIcone.
 - Video.
 - Profile.
@@ -117,3 +117,6 @@ https://user-images.githubusercontent.com/91872125/149751037-def2cd49-c422-4539-
 
 
 ##- Slides :
+
+
+https://www.canva.com/design/DAE2FJWQoAA/share/preview?token=KRMzzb5OB0SDISRw5-mvOA&role=EDITOR&utm_content=DAE2FJWQoAA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
